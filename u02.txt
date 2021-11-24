@@ -1,7 +1,7 @@
 Susanna Blanke, Niklas Donhauser, Leonard Hübner, Julius Windloff
 Aufgabe 2.1:
 a) Der UEQ misst die User Experience bzw. genauer: Attractiviness, Efficiency, Perspicuity, Denpendability, Stimulation und Novelty 
-b) Der UEQ kann nicht verwendet werden, um Verbesserungen in der Usability Experience aufzuzeigen.
+b) Der UEQ kann nicht verwendet werden, um Verbesserungen in der Usability Experience aufzuzeigen. Beim UEQ handelt es sich um quantitativ erhobene Daten, die zwar signifikant verarbeitet werden können, jedoch keine qualitativen Daten aufweisen. D.h, dass zwar relevante Nutzerdaten quantitativ aufgezeigt werden können, der Proband/Teilnehmer jedoch beispielsweise keine eigenen Anmerkungen tätigen kann und Usability Schwäche so nicht aufgedeckt werden könnten.
 c) Der UEQ sollten am Ende einer Benutzung angewendet werden. Es sollte vermieden werden einzelne Items auszutauschen oder diese gar wegzulassen, da sonst die Daten schwer zu interpretieren sind.
 d) Der UEQ kann verwendet werden, um verschiedene Softwareprodukte zu vergleichen. Dies liegt an einer großen Datenbank (452 Benchmarks gesamt und 158 Business und 85 Webseiten und Web Services), die die Werte von anderen Produkten angibt. Außerdem werden im UEQ immer die gleichen 26 Items in den 6 verschiedenen Skalen verwendet.
 Aufgabe 2.2:
@@ -10,5 +10,5 @@ b) Dieser Term ist kontraproduktiv, da dies Gruppe nicht existiert. Ebenfalls be
 c) Individual User Characteristics beschreibt welche Eigenschaften der Nutzer besitzt sollte, damit er auch als Nutzer des Produktes identifiziert werden kann. Die Task Analysis beschreibt, welche Ziele der Nutzer mit einer Anwendung erreichen will und wie diese zu erreichen sind. Dabei wird der Nutzer sehr stark in die Evaluation eingebunden. Bei der Functional Analysis, wird auch die Art der Aufgabe eingegangen, also was wirklich gemacht werden muss, um an das Ziel zu kommen. Bei Evolution of the User wird drauf eingegangen, dass der Nutzer neue Möglichkeiten mit einer Software entdeckt und diese dann auch implementiert werden sollten vom Entwickler (z.B.: Das Hinzufügen von Shortcuts).  (Quelle: https://dl.acm.org/doi/book/10.5555/2821575)
 Aufgabe 2.3:
 a) https://github.com/ValdrDarmir/-bungsblatt_2
-
+b) Bericht: 
 
