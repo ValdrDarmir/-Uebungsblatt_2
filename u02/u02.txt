@@ -10,5 +10,5 @@ b) Dieser Term ist kontraproduktiv, da dies Gruppe nicht existiert. Ebenfalls be
 c) Individual User Characteristics beschreibt welche Eigenschaften der Nutzer besitzt sollte, damit er auch als Nutzer des Produktes identifiziert werden kann. Die Task Analysis beschreibt, welche Ziele der Nutzer mit einer Anwendung erreichen will und wie diese zu erreichen sind. Dabei wird der Nutzer sehr stark in die Evaluation eingebunden. Bei der Functional Analysis, wird auch die Art der Aufgabe eingegangen, also was wirklich gemacht werden muss, um an das Ziel zu kommen. Bei Evolution of the User wird drauf eingegangen, dass der Nutzer neue Möglichkeiten mit einer Software entdeckt und diese dann auch implementiert werden sollten vom Entwickler (z.B.: Das Hinzufügen von Shortcuts).  (Quelle: https://dl.acm.org/doi/book/10.5555/2821575)
 Aufgabe 2.3:
 a) https://github.com/ValdrDarmir/-bungsblatt_2
-b) Bericht: 
+b) Bericht: In unserer Studie haben wir drei verschiedene Tasks (Aufgaben) gestellt, bei denen sich Nutzer den Umgang der Universitätshomepage der Universität Regensburg auufzeigen soll.
 
